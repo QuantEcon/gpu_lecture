@@ -1,2 +1,3 @@
-# gpu_lecture
-GPU Lecture Nov 2022
+# GPU Lecture Nov 2022
+
+Author: John Stachurski
